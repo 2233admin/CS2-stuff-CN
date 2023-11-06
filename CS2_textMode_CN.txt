@@ -1,0 +1,134 @@
+"Source"                                                "https://github.com/2233admin/CS2-stuff-CN/"
+"Tokens"
+// 警告
+"Cstrike_TitlesTXT_Bomb_Defused"                    "炸弹已拆除"
+"Cstrike_TitlesTXT_Bomb_Planted"                    "炸弹已安放，剩余%s1秒"
+"SFUI_Notice_YouDroppedWeapon"                      "丢下了%s1"
+"Cstrike_TitlesTXT_Got_bomb"                        "捡到了炸弹"
+"Cstrike_TitlesTXT_Got_defuser"                     "捡到了拆弹器"
+"Cstrike_TitlesTXT_Weapon_Pickup"                   "捡到了%s1"
+"SFUI_Notice_Match_Will_Pause"                      "下一次冻结时间将暂停比赛"
+"SFUI_Notice_Match_Will_Pause_Technical"            "下一次冻结时间将进行技术暂停"
+
+// 由于一个未知的bug（？）需要空格前缀，否则颜色无法正常显示
+"SFUI_Notice_CTs_Clinched_Match"                    " ★ CT方赢得了比赛"
+"SFUI_Notice_Ts_Clinched_Match"                     " ★ T方赢得了比赛"
+"hostagerescuetime"                                 " CT方因接触人质获得了更多时间"
+"SFUI_Notice_All_Players_Connected"                 " 比赛将在%s1秒后开始"
+
+// 涂鸦菜单
+"CSGO_Spray_Auto_Toggle"                            "快速涂鸦"
+"CSGO_No_Sprays"                                    "你没有可使用的涂鸦"
+
+// 提示简化
+"SFUI_WPNHUD_HE_Grenade"                            "手榴弹"
+"SFUI_WPNHUD_HEGrenade"                             "手榴弹"
+"SFUI_WPNHUD_Molotov"                               "燃烧瓶"
+"SFUI_WPNHUD_IncGrenade"                            "燃烧弹"
+"SFUI_WPNHUD_Flashbang"                             "闪光弹"
+"SFUI_WPNHUD_Smoke_Grenade"                         "烟雾弹"
+"SFUI_WPNHUD_SmokeGrenade"                          "烟雾弹"
+"SFUI_WPNHUD_Decoy"                                 "诱饵弹"
+
+"Cstrike_game_join_spectators"                      " %s1加入了旁观者"
+"Cstrike_game_join_terrorist"                       " %s1加入了T方"
+"Cstrike_game_join_ct"                              " %s1加入了CT方"
+"Cstrike_TitlesTXT_Game_teammate_attack"            " %s1攻击了队友"
+"csgo_player_left_game"                             " %s1离开了游戏（%s2）"
+
+"Cstrike_TitlesTXT_Defusing_Bomb"                   "➤正在拆弹"
+"Cstrike_TitlesTXT_Planting_Bomb"                   "➤正在安放炸弹"
+
+// 投掷物提示
+"SFUI_TitlesTXT_Fire_in_the_hole"                   "• 手榴弹"
+"SFUI_TitlesTXT_Molotov_in_the_hole"                "• 燃烧瓶"
+"SFUI_TitlesTXT_Incendiary_in_the_hole"             "• 燃烧弹"
+"SFUI_TitlesTXT_Flashbang_in_the_hole"              "• 闪光弹"
+"SFUI_TitlesTXT_Smoke_in_the_hole"                  "• 烟雾弹"
+"SFUI_TitlesTXT_Decoy_in_the_hole"                  "• 诱饵弹"
+
+/// 聊天消息
+"Game_radio"                                        "%s1: %s2"
+"Game_radio_location"                               "%s1 @ %s2: %s3"
+"Cstrike_Chat_CT_Loc"                               "%s1 @ %s3 (团队): %s2"
+"Cstrike_Chat_T_Loc"                                "%s1 @ %s3 (团队): %s2"
+"Cstrike_Chat_CT_Dead"                              "%s1 [死亡] (团队): %s2"
+"Cstrike_Chat_T_Dead"                               "%s1 [死亡] (团队): %s2"
+"Cstrike_Chat_CT"                                   "%s1 (团队): %s2"
+"Cstrike_Chat_T"                                    "%s1 (团队): %s2"
+"Cstrike_Chat_All"                                  "%s1: %s2"
+"Cstrike_Chat_AllDead"                              "%s1 [死亡]: %s2"
+
+// 玩家奖励
+"Player_Cash_Award_Bomb_Defused"                    "+$%s1 • 炸弹拆除"
+"Player_Cash_Award_Bomb_Planted"                    "+$%s1 • 炸弹种植"
+"Player_Cash_Award_Get_Killed"                      "+$%s1 • 被淘汰"
+"Player_Cash_Award_Interact_Hostage"                "+$%s1 • 接触人质"
+"Player_Cash_Award_Killed_Enemy_Generic"            "+$%s1 • 击杀"
+"Player_Cash_Award_Killed_Enemy"                    "+$%s1 • 击杀 • %s2"
+"Player_Cash_Award_Rescued_Hostage"                 "+$%s1 • 人质获救"
+"Player_Cash_Award_Respawn"                         "+$%s1 • 重生"
+
+"Player_Cash_Award_Damage_Hostage"                  "-$%s1 • 人质受伤"
+"Player_Cash_Award_Kill_Hostage"                    "-$%s1 • 人质被杀"
+"Player_Cash_Award_Kill_Teammate"                   "-$%s1 • 队友被杀"
+
+// 团队奖励
+"Team_Cash_Award_Elim_Bomb"                         "+$%s1 • 轮次胜利"
+"Team_Cash_Award_Elim_Hostage"                      "+$%s1 • 轮次胜利"
+"Team_Cash_Award_T_Win_Bomb"                        "+$%s1 • 轮次胜利 • 炸弹爆炸"
+"Team_Cash_Award_Win_Defuse_Bomb"                   "+$%s1 • 轮次胜利 • 炸弹拆除"
+"Team_Cash_Award_Win_Hostage_Rescue"                "+$%s1 • 轮次胜利 • 人质获救"
+"Team_Cash_Award_Win_Hostages_Rescue"               "+$%s1 • 轮次胜利 • 所有人质获救"
+"Team_Cash_Award_Loser_Bonus"                       "+$%s1 • 轮次失败"
+"Team_Cash_Award_Planted_Bomb_But_Defused"          "+$%s1 • 团队种下了炸弹但被拆除"
+"Team_Cash_Award_Generic"                           "+$%s1 • 团队奖励"
+"Team_Cash_Award_Hostage_Alive"                     "+$%s1 • 人质存活"
+"Team_Cash_Award_Hostage_Interaction"               "+$%s1 • 团队接触了人质"
+"Team_Cash_Award_Rescued_Hostage"                   "+$%s1 • 团队救出了人质"
+"Team_Cash_Award_Bonus_Shorthanded"                 "+$%s1 • 人数不足收入"
+"Team_Cash_Award_Survive_GuardianMode_Wave"         "+$%s1 • 存活一波"
+"Team_Cash_Award_Win_Time"                          "+$%s1 • 时间耗尽"
+"Team_Cash_Award_Custom"                            "+$%s1 • %s2"
+
+"Team_Cash_Award_Loser_Bonus_Neg"                   "-$%s1 • 轮次失败"
+"Team_Cash_Award_No_Income"                         "$0 • 时间耗尽"
+"Team_Cash_Award_No_Income_Suicide"                 "$0 • 自杀"
+
+// 死亡竞赛得分
+"Player_Point_Award_Assist_Enemy"                   "+%s1 • 协助击杀%s2"
+"Player_Point_Award_Assist_Enemy_Plural"            "+%s1 • 协助击杀%s2"
+"Player_Point_Award_Killed_Enemy"                   "+%s1 • 击杀%s2"
+"Player_Point_Award_Killed_Enemy_Plural"            "+%s1 • 击杀%s2"
+"Player_Point_Award_Killed_Enemy_NoWeapon"          "+%s1 • 击杀"
+"Player_Point_Award_Killed_Enemy_NoWeapon_Plural"   "+%s1 • 击杀"
+
+// 自杀
+"Player_Cash_Award_ExplainSuicide_EnemyGotCash"     "%s1自杀，敌方玩家获得了赔偿"
+"Player_Cash_Award_ExplainSuicide_Spectators"       "%s3因%s1自杀获得了+$%s2"
+"Player_Cash_Award_ExplainSuicide_TeammateGotCash"  "%s3因%s1自杀获得了+$%s2"
+"Player_Cash_Award_ExplainSuicide_YouGotCash"       "+$%s2 • %s1自杀"
+
+// 短期收入
+"Notice_Bonus_Enemy_Team"                           "敌方获得了+$%s1的人数不足收入"
+"Notice_Bonus_Shorthanded_Eligibility"              "%s1轮后有资格获得人数不足收入"
+"Notice_Bonus_Shorthanded_Eligibility_Single"       "1轮后有资格获得人数不足收入"
+
+// 颜色标识
+// C01 #ffffff  - 正常，白色
+// C02 #ff0000  - “使用旧颜色”，深红色
+// C03 #ba81f0  - 玩家名字，团队颜色（CT - #a2c6ff, T - #ffdf93）
+// C04 #40ff40  - 位置，亮绿色
+// C05 #bfff90  - 成就，浅绿色
+// C06 #a2ff47  - 奖励，亮绿色
+// C07 #ff4040  - 惩罚，浅红色
+// C08 #c5cad0  - 银色
+// C09 #ede47a (tab character) - 金色
+
+// C10 #b0c3d9 (line feed) - 普通？
+// C11 #5e98d9  - 不常见的，非常浅的蓝色
+// C12 #4b69ff  - 稀有的，较深的蓝色
+// C13 #8847ff (carriage return) - 神话？
+// C14 #d32ce6  - 传说中的，紫色
+// C15 #eb4b4b  - 古老的，较浅的红色
+// C16 #e4ae39  - 不朽的，橙色
