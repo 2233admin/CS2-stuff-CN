@@ -1,6 +1,6 @@
 # 如何使用CS2彩色提示
 
-1. [点击此链接下载文件](https://raw.githubusercontent.com/xPaw/CS2/main/csgo_textmod.txt) (Press <kbd>Ctrl+S</kbd>)
+1. [点击此链接下载文件](https://github.com/2233admin/CS2-stuff-CN/blob/main/CS2_textMode_CN.txt) (Press <kbd>Ctrl+S</kbd>)
 2. 将此文件保存为 `csgoo_textmod.txt` 并放入此文件夹中 `Steam\SteamApps\Common\Counter-Strike Global Offensive\game\csgo\resource`
 3. 将 `-language textmod` 添加到启动选项中
 
