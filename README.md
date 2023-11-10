@@ -7,8 +7,13 @@
 #### 不管用？请确保
 - csgo_textmod.txt "放在正确的文件夹中（需要放在 CS2 的 "game\csgo\resource "文件夹中）。
 - 启动选项的拼写是否正确，下面是一个可以正常工作的示例： novid -language textmod
+- 如果界面是英文的只有投掷物是中文
+需要把 csgoo_textmod.txtSteam\SteamApps\Common\Counter-Strike Global Offensive\game\csgo\resource 
+文件夹下  把 csgo_english.txt 文件名修改成csgo_english1.txt 然后把
+csgo_schinese.txt文件名修改成csgo_english.txt即可解决这个问题。
 
-To enable letters inside of a circle for teammate colors, use `cl_teammate_colors_show 2`
+
+要为队友颜色启用圆圈内的字母，请使用cl_teammate_colors_show 2
 
 ![](screenshot.png)
 
