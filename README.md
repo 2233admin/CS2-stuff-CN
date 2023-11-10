@@ -8,6 +8,8 @@
 - csgo_textmod.txt "放在正确的文件夹中（需要放在 CS2 的 "game\csgo\resource "文件夹中）。
 - 启动选项的拼写是否正确，下面是一个可以正常工作的示例： novid -language textmod
 
+To enable letters inside of a circle for teammate colors, use `cl_teammate_colors_show 2`
+
 ![](screenshot.png)
 
 这是基于 bananagaming 文字修改器制作的 cs2版本
