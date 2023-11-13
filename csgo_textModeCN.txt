@@ -14,7 +14,7 @@
 "SFUI_Notice_Match_Will_Pause_Technical"            "下一次冻结时间将进行技术暂停"
 
 // 由于一个未知的bug（？）需要空格前缀，否则颜色无法正常显示
-"SFUI_Notice_CTs_Clinched_Match"                    " 
+"SFUI_Notice_CTs_Clinched_Match"                    " ★ CT方赢得了比赛" 
 ★ CT方赢得了比赛"
 "SFUI_Notice_Ts_Clinched_Match"                     " ★ T方赢得了比赛"
 "hostagerescuetime"                                 " CT方因接触人质获得了更多时间"
@@ -36,7 +36,7 @@
 
 "Cstrike_game_join_spectators"                      " %s1加入了旁观者"
 "Cstrike_game_join_terrorist"                       " %s1加入了T方"
-"Cstrike_game_join_ct"                              " 
+"Cstrike_game_join_ct"                              " %s1加入了CT方"
 %s1加入了CT方"
 "Cstrike_TitlesTXT_Game_teammate_attack"            " %s1攻击了队友"
 "csgo_player_left_game"                             " %s1离开了游戏（%s2）"
@@ -48,7 +48,7 @@
 "SFUI_TitlesTXT_Fire_in_the_hole"                   "• 手榴弹"
 "SFUI_TitlesTXT_Molotov_in_the_hole"                "• 燃烧瓶"
 "SFUI_TitlesTXT_Incendiary_in_the_hole"             "• 燃烧弹"
-"SFUI_TitlesTXT_Flashbang_in_the_hole"              "
+"SFUI_TitlesTXT_Flashbang_in_the_hole"              "• 闪光弹"
 • 闪光弹"
 "SFUI_TitlesTXT_Smoke_in_the_hole"                  "• 烟雾弹"
 "SFUI_TitlesTXT_Decoy_in_the_hole"                  "• 诱饵弹"
